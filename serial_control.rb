@@ -2,6 +2,7 @@
 #using the SerialPort gem
 #(http://rubygems.org/gems/serialport)
 
+require 'rubygems'
 require "serialport"
 
 #params for serial port
